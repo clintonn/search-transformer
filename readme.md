@@ -5,7 +5,8 @@
 # Typechecking
 
 ```sh
-yarn global add flow flow-typed
+yarn global add flow-bin flow-typed
+flow
 ```
 
 # Testing
